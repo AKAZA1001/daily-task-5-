@@ -1,0 +1,89 @@
+{
+  "contactInformation": {
+    "fullName": "Manoj Patil",
+    "email": "patilmanojr16@gmail.com",
+    "phone": "7058020870",
+    "address": "harsul , Sambhajinagar, India",
+    "linkedin": "linkedin.com/in/",
+  },
+  "personalStatement": "Highly motivated and results-oriented professional with a passion for Web Development. Experienced in developing sites and dedicated to delivering exceptional results. Strong problem-solving, communication, and leadership skills. Committed to continuous learning and professional growth.",
+  "workExperience": [
+ 
+      "position": "Fresher  [Web Developer]",
+      "company": " XYZ",
+      "location": "pune, India",
+      "startDate": "2021",
+      "endDate": "2022",
+      "responsibilities": [
+        "Help the team of professional web developers.",
+        "Develop and execute strategic plans to achieve business objectives.",
+        "Collaborate with cross-functional teams to deliver projects on time and within budget.",
+        "Establish and maintain strong client relationships.",
+        "Identify and capitalize on market opportunities for business growth."
+      ]
+    },
+    {
+      "position": "Web-Developer Intern",
+      "company": "ABC Company",
+      "location": "Pune, india",
+      "startDate": "2021",
+      "endDate": "2022",
+      "responsibilities": [
+        "Assist in project planning and execution.",
+        "Conduct research and analysis to support decision-making.",
+        "Collaborate with team members to achieve project milestones.",
+        "Provide excellent customer service and address client inquiries.",
+        "Contribute to process improvement initiatives."
+      ]
+    }
+  ],
+  "associationsAndCertifications": [
+    "Certified in Java,
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "university": "SPPU University",
+      "location": "Pune, india",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "ABC High School",
+      "location": "Aurangabad, India",
+      "startDate": "2016",
+      "endDate": "2019"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Problem-solving",
+    "Communication",
+    "Teamwork",
+    "Strategic Planning",
+    "Analytical Thinking",
+    "Time Management",
+    "Technical Proficiency",
+    "Adaptability"
+  ],
+      {
+      "sectionTitle": "Languages",
+      "sectionItems": [
+        "English",
+        "Hindi"
+	"Marathi"
+	"Deouch"
+      ]
+    },
+    {
+      "sectionTitle": "Interests",
+      "sectionItems": [
+        "Reading",
+        "Traveling",
+        "Gaming"
+	"Cricket "
+      ]
+    }
+  ]
+}
